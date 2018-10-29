@@ -1,10 +1,5 @@
 # HW1: Chatbot
 
-## Author
-
-Haoyu Yan, hy2574
-Yuxuan Zhang, yz3377
-
 ## Frontend in S3
 The endpoint for this project is: http://chatbotanniver.s3-website-us-west-2.amazonaws.com
 Frontend:
